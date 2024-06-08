@@ -1,9 +1,9 @@
 # 💫 About Me
 
-🔭 I’m currently working on C++
-👯 I’m looking to collaborate on the Projects
-🤝 I’m looking for help with some contribution
-🌱 I’m currently learning Rust 🦀
+🔭 I’m currently working on C++  
+👯 I’m looking to collaborate on the Projects  
+🤝 I’m looking for help with some contribution  
+🌱 I’m currently learning Rust 🦀  
 
 ## 🌐 Let's Connect
 
