@@ -1,13 +1,13 @@
 # 💫 About Me
 
 🔭 Diving into C++ Development  
-👯 Open to Collaborating on Exciting Projects  
-🤝 Seeking Contributions and Support  
 🌱 Learning Rust 🦀 and Loving It!  
+👯 Open to Collaborations  
+💬 Seeking Contributions and Support  
 
 ## 🌐 Let's Connect
 
-🚀 Excited to collaborate with you on Telegram!
+Reach out to me on **[Telegram](https://t.me/gvatsal60)** for exciting collaborations and discussions! ✨
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gvatsal60)
 
@@ -31,6 +31,10 @@ Let's make magic happen together! ✨
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+## 🔝 Top Contributed Repo
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=gvatsal60&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvatsal60&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)
@@ -41,21 +45,17 @@ Let's make magic happen together! ✨
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🔝 Top Contributed Repo
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=gvatsal60&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
+## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gvatsal60&style=for-the-badge&color=orange)
 
 ## 💖 Support
 
-You can make one-time donations via buymeacoffee. I'll probably buy a coffee! ☕
+Love what I do? You can support me via [Buy Me A Coffee](https://buymeacoffee.com/gvatsal60). I'll probably grab a cup of coffee to fuel more awesome projects! ☕
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gvatsal60)
 
-Thanks! ❤️
-
 ## 🤝 Contributions
 
-Contributions are welcome!
-Made with 🔥.
+**Your contributions make a difference!**  
+Whether it's fixing bugs, adding features, or providing feedback — let's make magic happen together! 🔥
