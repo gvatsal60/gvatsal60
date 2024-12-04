@@ -28,6 +28,11 @@ repos:
       - id: pretty-format-json
         args: [--autofix, --no-ensure-ascii, --no-sort-keys]
       - id: requirements-txt-fixer
+  # Yamlfmt for formatting YAML files
+  - repo: https://github.com/google/yamlfmt
+    rev: "v0.14.0"
+    hooks:
+      - id: yamlfmt
   # Codespell for detecting common misspellings in code
   - repo: https://github.com/codespell-project/codespell
     rev: "v2.3.0"
