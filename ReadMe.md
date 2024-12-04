@@ -7,9 +7,10 @@
 
 ## 🌐 Let's Connect
 
+🚀 Excited to collaborate with you on Telegram!
+
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gvatsal60)
 
-🚀 Excited to collaborate with you on Telegram!
 Let's make magic happen together! ✨
 
 ## 💻 Tech Stack
@@ -35,10 +36,6 @@ Let's make magic happen together! ✨
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvatsal60&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gvatsal60&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gvatsal60&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ## ✍️ Dev Quote
 
