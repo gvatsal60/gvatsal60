@@ -29,11 +29,11 @@ Let's make magic happen together! ✨
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-<!-- 
 ## 🔝 Top Contributed Repo
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=gvatsal60&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
+<!-- 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvatsal60&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)
