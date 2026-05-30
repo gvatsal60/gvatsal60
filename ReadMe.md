@@ -10,7 +10,7 @@
 ## 🌐 Let's Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-@gvatsal60-1E88E5?style=plastic&logo=telegram&logoColor=white)](https://t.me/gvatsal60)<br>
-Feel free to reach out to me on for collaborations, discussions, or just to connect!
+Feel free to reach out to me on Telegram for collaborations, discussions, or just to connect!
 
 ## 🌐 Socials
 
