@@ -28,6 +28,28 @@ repos:
       - id: pretty-format-json
         args: [--autofix, --no-ensure-ascii, --no-sort-keys]
       - id: requirements-txt-fixer
+  # ShellCheck hook for linting shell scripts
+  - repo: https://github.com/shellcheck-py/shellcheck-py
+    rev: "v0.11.0.1"
+    hooks:
+      - id: shellcheck
+        name: shellcheck
+        description: This hook runs shellcheck for linting shell scripts
+  # Bashate hook for linting shell scripts
+  - repo: https://github.com/openstack/bashate
+    rev: "2.1.1"
+    hooks:
+      - id: bashate
+        name: bashate
+        description: This hook runs bashate for linting shell scripts
+        entry: bashate
+        language: python
+        types: [shell]
+  # Actionlint for linting GitHub Actions YAML files
+  - repo: https://github.com/rhysd/actionlint
+    rev: "v1.7.11"
+    hooks:
+      - id: actionlint
   # Yamlfmt for formatting YAML files
   - repo: https://github.com/google/yamlfmt
     rev: "v0.21.0"
@@ -38,3 +60,9 @@ repos:
     rev: "v2.4.2"
     hooks:
       - id: codespell
+  # Markdownlint for linting Markdown files
+  - repo: https://github.com/DavidAnson/markdownlint-cli2
+    rev: v0.21.0
+    hooks:
+      - id: markdownlint-cli2
+        args: [--fix]
