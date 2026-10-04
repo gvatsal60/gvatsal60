@@ -32,10 +32,10 @@
         "extensions.autoUpdate": true,
         "extensions.ignoreRecommendations": true,
         "files.autoSave": "afterDelay",
-        "files.trimTrailingWhitespace": false,
         "files.exclude": {
           "**/.vscode": true
         },
+        "files.trimTrailingWhitespace": false,
         "search.exclude": {
           "**/*.code-search": true,
           "**/*.git": true,
