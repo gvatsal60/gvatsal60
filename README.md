@@ -1,9 +1,9 @@
 # 💫 About Me
 
-🔭 Diving into Python and C++ Development  
-🌱 Learning Rust 🦀 and Loving It!  
-👯 Open to Collaborations  
-💬 Seeking Contributions and Support  
+🔭 Diving into Python and C++ Development
+🌱 Learning Rust 🦀 and Loving It!
+👯 Open to Collaborations
+💬 Seeking Contributions and Support
 
 ## 🌐 Let's Connect
 
@@ -29,7 +29,7 @@ Let's make magic happen together! ✨
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-<!-- 
+<!--
 ## 🔝 Top Contributed Repo
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=gvatsal60&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
@@ -58,5 +58,5 @@ I'll probably grab a cup of coffee to fuel more awesome projects! ☕
 
 ## 🤝 Contributions
 
-**Your contributions make a difference!**  
+**Your contributions make a difference!**
 Whether it's fixing bugs, adding features, or providing feedback — let's make magic happen together! 🔥
