@@ -15,7 +15,7 @@ I work mostly in **Python** and **C++**, care about developer experience and cod
 - 🌱 Learning **Rust** 🦀
 - ⚙️ Passionate about **DevOps**, containers and reproducible dev environments
 - 🤝 Open to collaborations and open-source contributions
-- 💬 Ask me about: Python, C++, shell scripting, Docker, CI/CD
+- 💬 Ask me about: Python, C++, Shell Scripting, Docker, CI/CD
 
 ## 🧰 Tech Stack
 
