@@ -3,9 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C9CDB&center=true&vCenter=true&width=700&lines=Building+reliable+software+in+Python+%26+C%2B%2B;Learning+Rust+%F0%9F%A6%80+and+loving+it;Automating+everything+with+DevOps;Open+to+collaboration+%26+contributions)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=gvatsal60&style=flat-square&color=2c5364&label=PROFILE+VIEWS)](https://github.com/gvatsal60)
-[![Telegram](https://img.shields.io/badge/Telegram-@gvatsal60-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/gvatsal60)
-
 ## 👋 About Me
 
 I'm a software engineer who enjoys building clean, dependable tools and the automation around them.
