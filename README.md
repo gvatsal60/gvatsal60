@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vatsal%20Gupta&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20Systems%20%26%20DevOps%20%7C%20Open%20Source&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vatsal%20Gupta&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20Systems%20and%20DevOps%20%7C%20Open%20Source&descAlignY=58&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C9CDB&center=true&vCenter=true&width=700&lines=Building+reliable+software+in+Python+%26+C%2B%2B;Learning+Rust+%F0%9F%A6%80+and+loving+it;Automating+everything+with+DevOps;Open+to+collaboration+%26+contributions)](https://git.io/typing-svg)
 
@@ -44,12 +44,9 @@ I work mostly in **Python** and **C++**, care about developer experience and cod
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvatsal60&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)](https://github.com/gvatsal60)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gvatsal60&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/gvatsal60)
-
 [![Contribution Streak](https://streak-stats.demolab.com?user=gvatsal60&theme=tokyonight&hide_border=true)](https://github.com/gvatsal60)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gvatsal60&theme=tokyo-night&hide_border=true&area=true)](https://github.com/gvatsal60)
+[![Contribution Chart](https://ghchart.rshah.org/2c9cdb/gvatsal60)](https://github.com/gvatsal60)
 
 ## 🤝 Let's Connect
 
