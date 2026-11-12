@@ -60,12 +60,6 @@ I work mostly in **Python** and **C++**, care about developer experience and cod
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-083fa1?style=for-the-badge&logo=markdown&logoColor=white)
 
-## 📊 GitHub Stats
-
-[![Contribution Streak](https://streak-stats.demolab.com?user=gvatsal60&theme=tokyonight&hide_border=true)](https://github.com/gvatsal60)
-
-[![Contribution Chart](https://ghchart.rshah.org/2c9cdb/gvatsal60)](https://github.com/gvatsal60)
-
 ## 🤝 Let's Connect
 
 Open to collaborations, ideas and good conversations. The quickest way to reach me is on Telegram.
