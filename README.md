@@ -1,9 +1,9 @@
 # 💫 About Me
 
-🔭 Diving into Python and C++ Development
-🌱 Learning Rust 🦀 and Loving It!
-👯 Open to Collaborations
-💬 Seeking Contributions and Support
+- 🔭 Diving into Python and C++ Development
+- 🌱 Learning Rust 🦀 and Loving It!
+- 👯 Open to Collaborations
+- 💬 Seeking Contributions and Support
 
 ## 🌐 Let's Connect
 
